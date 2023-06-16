@@ -12,12 +12,12 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #C6B93F;
-  --hover-color: #7D731E;
-  --success-color: #E91E63;
-  --danger-color: #C35E5E;
+  --main-color: #828F97;
+  --hover-color: #272C2F;
+  --success-color: #1FCD26;
+  --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://cdn.discordapp.com/attachments/419515719835713537/1119313531339276360/image.png');
+  --background-image: url('https://preview.redd.it/piano-background-v0-egcqyoganlea1.jpg?width=2560&format=pjpg&auto=webp&s=6c6a614fbeb19b3cfe039dc66e7f0d72142f0e49');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -56,7 +56,7 @@
   --home-position: center;
   --home-size: 97px;
   --channel-unread: #FFFFFF;
-  --channel-color: rgb(255,255,255,0.5);
+  --channel-color: rgb(255,255,255,0.75);
   --muted-color: rgb(255,255,255,0.25);
   --online-color: #43b581;
   --idle-color: #faa61a;
